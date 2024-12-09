@@ -1,0 +1,32 @@
+[
+  {
+    "apiProviderName": "WeatherBit",
+    "temperature": 10.0,
+    "weather": null,
+    "responseTime": 185,
+    "startTime": 1730768713024,
+    "endTime": 1730768713209,
+    "errorMessage": null,
+    "error": false
+  },
+  {
+    "apiProviderName": "WeatherAPI",
+    "temperature": 11.7,
+    "weather": null,
+    "responseTime": 260,
+    "startTime": 1730768713025,
+    "endTime": 1730768713285,
+    "errorMessage": null,
+    "error": false
+  },
+  {
+    "apiProviderName": "OpenWeatherMap",
+    "temperature": 10.92,
+    "weather": null,
+    "responseTime": 184,
+    "startTime": 1730768713025,
+    "endTime": 1730768713209,
+    "errorMessage": null,
+    "error": false
+  }
+]
